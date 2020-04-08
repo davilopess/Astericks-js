@@ -19,9 +19,6 @@ export default function Converter() {
             <div className="container">
                 <section>
                     <img src={logoImg} alt="Astericks" />
-                    {/* <h1>
-                        Digite um texto para ser convertido
-                    </h1> */}
 
                 </section>
                 <form onSubmit={handleConverter}>
